@@ -29,14 +29,16 @@
 ---
 
 ## 📁 Folder Structure
+
+```bash
 watchmate/
 ├── index.html
 ├── App.css
 ├── images/
-│ ├── logo.png
-│ ├── kgf.jpg
-│ ├── moneyheist.png
-│ └── ...more images
+│   ├── logo.png
+│   ├── kgf.jpg
+│   ├── moneyheist.png
+│   └── ...more images
 ├── README.md
 
 ---
