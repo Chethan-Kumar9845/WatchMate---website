@@ -1,0 +1,54 @@
+html,body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+   background-image: url(images/background.png);
+}
+ /* Tagline Animation Styles */
+.tagline-container {
+  overflow: hidden;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.tagline {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.8rem;
+  font-weight: 500;
+  color: #202020;
+  white-space: nowrap;
+  animation: slideIn 5s ease-in-out infinite;
+  opacity: 0;
+  transform: translateX(-200px);
+  letter-spacing: 1.2px;
+}
+
+/* Animation */
+@keyframes slideIn {
+  0% {
+    transform: translateX(-200px);
+    opacity: 0;
+  }
+  30% {
+    opacity: 1;
+  }
+  60% {
+    transform: translateX(0);
+  }
+  80% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    transform: translateX(-200px);
+  }
+}
+.text-center mb-5{
+    background-color: aqua;
+}
