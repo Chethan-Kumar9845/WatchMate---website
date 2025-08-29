@@ -40,11 +40,10 @@ watchmate/
 │   ├── moneyheist.png
 │   └── ...more images
 ├── README.md
-
+```
 ---
 
-
-![screenshot](https://github.com/Chethan-Kumar9845/WatchMate---website/blob/master/Screenshots/Screenshot%202025-08-29%20135828.png)
+![screenshot](https://raw.githubusercontent.com/Chethan-Kumar9845/WatchMate---website/master/Screenshots/Screenshot%202025-08-29%20135828.png)
 
 
 
