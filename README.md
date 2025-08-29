@@ -44,7 +44,7 @@ watchmate/
 ---
 
 
-![Screenshot](https://raw.githubusercontent.com/Chethan-Kumar9845/WatchMate---website/master/Screenshots/Screenshot%202025-08-29%20135828.png)
+![Screenshot](https://github.com/Chethan-Kumar9845/WatchMate---website/blob/master/Screenshots/Screenshot%202025-08-29%20135828.png)
 
 
 ## 👨‍💻 Developed By
