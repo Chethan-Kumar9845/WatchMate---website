@@ -46,7 +46,6 @@ watchmate/
 
 ![Screenshot](https://github.com/Chethan-Kumar9845/WatchMate---website/blob/master/Screenshots/Screenshot%202025-08-29%20135828.png)
 
-
 ## 👨‍💻 Developed By
 
 **Chethan Kumar**  
